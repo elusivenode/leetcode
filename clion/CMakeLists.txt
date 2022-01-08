@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 17)
 
 add_executable(maxOnes src/arrays/maxOnes.c)
 add_executable(findNumbers src/arrays/findNumbers.c)
+add_executable(squares src/arrays/squares.c)
